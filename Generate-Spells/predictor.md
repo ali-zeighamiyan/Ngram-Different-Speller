@@ -1,4 +1,4 @@
-# use probility files to generate english differnet spells of persian names
+# Use probility files to generate english differnet spells of persian names
   
 ## prepare
 write these in command prompt to install require packages  
